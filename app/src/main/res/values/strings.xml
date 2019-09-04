@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Kontak Jodoh</string>
+    <string name="title_home">Home</string>
+    <string name="nama">Ayi Hardiyanto</string>
+    <string name="about_me">About Me</string>
+    <string name="job">Graphic Designer, Videographer</string>
+    <string name="biodata">Designing things always fascinates me and documenting every single memories are priceless.</string>
+    <string name="asal">Banten, Indonesia</string>
+    <string name="email">ayihardyan@gmail.com</string>
+    <string name="number">+62 812-1882-9455</string>
+    <string name="facebook">fb.me/ayihard</string>
+    <string name="profile">Profile</string>
+    <string name="status_app">status</string>
+    <string name="aboutApp">Aplikasi ini dibuat dengan tujuan memenuhi Submission Task, untuk mendapatkan gelar Android Developer Pemula.</string>
+    <string name="Version">Version 1.0.0</string>
+    <string name="menuAbout">about</string>
+    <string name="bio">Biodata</string>
+    <string name="ttl">Tempat/Tanggal Lahir</string>
+    <string name="tinggi">Tinggi Badan</string>
+    <string name="BB">Berat Badan</string>
+    <string name="Job">Pekerjaan</string>
+    <string name="edu">Pendidikan Terakhir</string>
+    <string name="perantara">Perantara</string>
+    <string name="pName">Nama</string>
+    <string name="contact">Kontak</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="desc">desc</string>
+    <string name="TTL">TTL</string>
+    <string name="TB">tb</string>
+    <string name="bb">bb</string>
+    <string name="jobs">jobs</string>
+    <string name="callP">Hubungi PErantara</string>
+</resources>
